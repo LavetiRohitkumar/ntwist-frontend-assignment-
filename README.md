@@ -61,7 +61,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ntwist-frontend-assignment.git
+git clone https://github.com/LavetiRohitkumar/ntwist-frontend-assignment.git
 Navigate to the project directory
 
 bash
